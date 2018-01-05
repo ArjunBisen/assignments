@@ -1,0 +1,11 @@
+  1. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         29 characters
+	Most common values:    OFFICE OF THE SPEAKER (1x)
+	                       OFFICE OF THE MINORITY LEADER (1x)
+	                       COMMITTEE ON WAYS AND MEANS (1x)
+
+Row count: 3
