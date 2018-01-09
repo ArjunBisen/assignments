@@ -2,6 +2,8 @@
 import csv
 import sys
 
+# this program filters all purchases from a particular database by all transactions costing more than 1000 dollars.
+
 # read data from STDIN and split on each newline
 data = sys.stdin.read().splitlines()
 
